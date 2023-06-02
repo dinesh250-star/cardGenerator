@@ -1,0 +1,504 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 2,
+      "quote": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "id": 3,
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 4,
+      "quote": "If life were predictable it would cease to be life, and be without flavor.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 5,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "id": 6,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 7,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 8,
+      "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 9,
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 10,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 11,
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "id": 12,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 13,
+      "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 14,
+      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "id": 15,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 16,
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "id": 17,
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "id": 18,
+      "quote": "It's not whether you get knocked down, it's whether you get up.",
+      "author": "Vince Lombardi"
+    },
+    {
+      "id": 19,
+      "quote": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+      "author": "Christopher Columbus"
+    },
+    {
+      "id": 20,
+      "quote": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 21,
+      "quote": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 22,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 23,
+      "quote": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    {
+      "id": 24,
+      "quote": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 25,
+      "quote": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 26,
+      "quote": "Don't Let Yesterday Take Up Too Much Of Today.",
+      "author": "Will Rogers"
+    },
+    {
+      "id": 27,
+      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 28,
+      "quote": "The Man Who Has Confidence In Himself Gains The Confidence Of Others.",
+      "author": "Hasidic Proverb"
+    },
+    {
+      "id": 29,
+      "quote": "Believe In Yourself And All That You Are. Know That There Is Something Inside You That Is Greater Than Any Obstacle.",
+      "author": "Christian D. Larson"
+    },
+    {
+      "id": 30,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 31,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 32,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 33,
+      "quote": "We Generate Fears While We Sit. We Overcome Them By Action.",
+      "author": "Dr. Henry Link"
+    },
+    {
+      "id": 34,
+      "quote": "Whether You Think You Can Or Think You Can’t, You’re Right.",
+      "author": "Henry Ford"
+    },
+    {
+      "id": 35,
+      "quote": "Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing.",
+      "author": "Helen Keller"
+    },
+    {
+      "id": 36,
+      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 37,
+      "quote": "Creativity Is Intelligence Having Fun.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 38,
+      "quote": "What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.",
+      "author": "Don Zimmer"
+    },
+    {
+      "id": 39,
+      "quote": "Do What You Can With All You Have, Wherever You Are.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 40,
+      "quote": "Develop An Attitude Of Gratitude. Say Thank You To Everyone You Meet For Everything They Do For You.",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 41,
+      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 42,
+      "quote": "To See What Is Right And Not Do It Is A Lack Of Courage.",
+      "author": "Confucius"
+    },
+    {
+      "id": 43,
+      "quote": "Reading Is To The Mind, As Exercise Is To The Body.",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 44,
+      "quote": "Fake It Until You Make It! Act As If You Had All The Confidence You Require Until It Becomes Your Reality.",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 45,
+      "quote": "The Future Belongs To The Competent. Get Good, Get Better, Be The Best!",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 46,
+      "quote": "For Every Reason It’s Not Possible, There Are Hundreds Of People Who Have Faced The Same Circumstances And Succeeded.",
+      "author": "Jack Canfield"
+    },
+    {
+      "id": 47,
+      "quote": "Things Work Out Best For Those Who Make The Best Of How Things Work Out.",
+      "author": "John Wooden"
+    },
+    {
+      "id": 48,
+      "quote": "A Room Without Books Is Like A Body Without A Soul.",
+      "author": "Marcus Tullius Cicero"
+    },
+    {
+      "id": 49,
+      "quote": "I Think Goals Should Never Be Easy, They Should Force You To Work, Even If They Are Uncomfortable At The Time.",
+      "author": "Michael Phelps"
+    },
+    {
+      "id": 50,
+      "quote": "One Of The Lessons That I Grew Up With Was To Always Stay True To Yourself And Never Let What Somebody Else Says Distract You From Your Goals.",
+      "author": "Michelle Obama"
+    },
+    {
+      "id": 51,
+      "quote": "Today’s Accomplishments Were Yesterday’s Impossibilities.",
+      "author": "Robert H. Schuller"
+    },
+    {
+      "id": 52,
+      "quote": "The Only Way To Do Great Work Is To Love What You Do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 53,
+      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 54,
+      "quote": "You Don’t Have To Be Great To Start, But You Have To Start To Be Great.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 55,
+      "quote": "The Best Time To Plant A Tree Was 20 Years Ago. The Second Best Time Is Now.",
+      "author": "Chinese Proverb"
+    },
+    {
+      "id": 56,
+      "quote": "The Only Place Where Success Comes Before Work Is In The Dictionary.",
+      "author": "Vidal Sassoon"
+    },
+    {
+      "id": 57,
+      "quote": "The Way Get Started Is To Quit Talking And Begin Doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "id": 58,
+      "quote": "Success Is Not Final, Failure Is Not Fatal: It Is The Courage To Continue That Counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 59,
+      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 60,
+      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 61,
+      "quote": "Success Is Not The Key To Happiness. Happiness Is The Key To Success. If You Love What You Are Doing, You Will Be Successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 62,
+      "quote": "The Best Way To Predict The Future Is To Create It.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 63,
+      "quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
+      "author": "Will Rogers"
+    },
+    {
+      "id": 64,
+      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 65,
+      "quote": "The Future Belongs To Those Who Believe In The Beauty Of Their Dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 66,
+      "quote": "Do Not Let Yesterday’s Failures Ruin The Beauty Of Today, Because Each Day Has Its Own Promise Of Love, Joy, And Forgiveness.",
+      "author": "Unknown"
+    },
+    {
+      "id": 67,
+      "quote": "You Don’t Have To Be Great To Start, But You Have To Start To Be Great.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 68,
+      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 69,
+      "quote": "The Man Who Has Confidence In Himself Gains The Confidence Of Others.",
+      "author": "Hasidic Proverb"
+    },
+    {
+      "id": 70,
+      "quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
+      "author": "Will Rogers"
+    },
+    {
+      "id": 71,
+      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 72,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 73,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 74,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 75,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 76,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 77,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 78,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 79,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 80,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 81,
+      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 82,
+      "quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
+      "author": "Will Rogers"
+    },
+    {
+      "id": 83,
+      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 84,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 85,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 86,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 87,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 88,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 89,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 90,
+      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 91,
+      "quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
+      "author": "Will Rogers"
+    },
+    {
+      "id": 92,
+      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 93,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 94,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 95,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 96,
+      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+      "author": "Brian Tracy"
+    },
+    {
+      "id": 97,
+      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 98,
+      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+      "author": "Johann Wolfgang Von Goethe"
+    },
+    {
+      "id": 99,
+      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 100,
+      "quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
+      "author": "Will Rogers"
+    }
+  ]
+}
