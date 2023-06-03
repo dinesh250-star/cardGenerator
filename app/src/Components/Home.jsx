@@ -1,6 +1,8 @@
 import React from "react";
 import { useState } from "react";
 import axios from "Axios";
+import "bootstrap/dist/css/bootstrap.css";
+import HomeCss from "./Home.module.css";
 const Home = () => {
   const [cardNo, setCardNo] = useState();
   const [data, setData] = useState([]);
@@ -36,33 +38,54 @@ const Home = () => {
   };
   const show = async () => {};
   return (
-    <div>
-      <h2>hi</h2>
-      <form onSubmit={submitHandler}>
-        <input
-          type="number"
-          required
-          onChange={fetchInput}
-          placeholder="Enter no"
-          min="1"
-        ></input>
-        <button type="submit">Submit</button>
-      </form>
+    <>
+      <div
+        className="container"
+        style={{
+          // backgroundImage: `url("https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp")`,
 
-      {noDisplay ? (
-        data.map((i) => {
-          return (
-            <div>
-              <h1>{i.id}</h1>
-              <h1>{i.quote}</h1>
-              <h1>{i.author}</h1>
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
+        <form onSubmit={submitHandler} className="form-inline mb-5">
+          <div className="input-group mb-4">
+            <input
+              className="form-control mr-2"
+              type="number"
+              required
+              onChange={fetchInput}
+              placeholder="Enter no"
+              min="1"
+            ></input>
+            <div className="input-group-append">
+              <button type="submit" className="btn btn-outline-success">
+                Submit
+              </button>
             </div>
-          );
-        })
-      ) : (
-        <h1>Nothing to show!!!</h1>
-      )}
-    </div>
+          </div>
+        </form>
+
+        {noDisplay ? (
+          data.map((i) => {
+            return (
+              <div class="card-columns mb-5">
+                <div class="card p-3 ">
+                  <div class="card-body">
+                    <h4 class="card-title  text-danger mb-3 display-7">
+                      {i.author}
+                    </h4>
+                    <p class="card-text display-6">{i.quote}</p>
+                  </div>
+                </div>
+              </div>
+            );
+          })
+        ) : (
+          <h1>Nothing to show!!!</h1>
+        )}
+      </div>
+    </>
   );
 };
 
