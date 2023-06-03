@@ -4,17 +4,22 @@ import axios from "Axios";
 import "bootstrap/dist/css/bootstrap.css";
 import HomeCss from "./Home.module.css";
 const Home = () => {
-  const [cardNo, setCardNo] = useState();
-  const [data, setData] = useState([]);
-  const [noDisplay, setNoDisplay] = useState(true);
-  const [randomGeneratedNo, setRandomGeneratedNo] = useState();
-  const loopData = [];
+  const [cardNo, setCardNo] = useState(); //Stores no of card to be displayed
+  const [data, setData] = useState([]); //Stores all the json data
+  const [Display, setDisplay] = useState(false); //Render when quotes are generated
+  const loopData = []; //For storing randomly generated quotes
+
   const fetchInput = (e) => {
     setCardNo(e.target.value);
   };
+
   const submitHandler = async (e) => {
     e.preventDefault();
     console.log(cardNo);
+
+    //  fetching all the data,then generating quotes randomly in for loop
+    //  and pushing it into loopData array and saving it. Update Display
+    //  to true so now it can be conditionally rendered
 
     await axios
       .get("http://localhost:3031/list")
@@ -23,27 +28,20 @@ const Home = () => {
         for (let i = 0; i < cardNo; i++) {
           const randomNo = Math.round(Math.random() * 100 + 1);
           console.log(randomNo);
-          const a = loopData.push(res.data[randomNo - 1]);
-          if (!a) {
-            console.log("fast hogaya");
-          }
+          loopData.push(res.data[randomNo - 1]);
         }
         console.log(loopData);
         setData(loopData);
-        // setId(res.data[randomNo - 1].id);
-        // setQuote(res.data[randomNo - 1].quote);
-        // setAuthor(res.data[randomNo - 1].author);
+        setDisplay(true);
       })
       .catch((err) => console.log(err));
   };
-  const show = async () => {};
+
   return (
     <>
       <div
         className="container"
         style={{
-          // backgroundImage: `url("https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp")`,
-
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
@@ -66,7 +64,7 @@ const Home = () => {
           </div>
         </form>
 
-        {noDisplay ? (
+        {Display ? (
           data.map((i) => {
             return (
               <div class="card-columns mb-5">
@@ -82,7 +80,7 @@ const Home = () => {
             );
           })
         ) : (
-          <h1>Nothing to show!!!</h1>
+          <h1>Nothing to Display!</h1>
         )}
       </div>
     </>
